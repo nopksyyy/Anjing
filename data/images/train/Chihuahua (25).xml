@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Bulldog</name>
+		<name>Chihuahua</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>27</xmin>
+			<xmin>26</xmin>
 			<ymin>14</ymin>
-			<xmax>215</xmax>
+			<xmax>214</xmax>
 			<ymax>209</ymax>
 		</bndbox>
 	</object>
