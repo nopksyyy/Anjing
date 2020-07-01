@@ -1,0 +1,38 @@
+<annotation>
+	<folder>golden_retriever_-_Google_Penelusuran</folder>
+	<filename>Golden (21).jpg</filename>
+	<path>C:\Users\Asus\Downloads\Anjing\golden_retriever_-_Google_Penelusuran\Golden (21).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bulldog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>7</ymin>
+			<xmax>101</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bulldog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>7</ymin>
+			<xmax>220</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

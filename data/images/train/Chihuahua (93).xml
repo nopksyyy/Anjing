@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chihuahua_-_Google_Penelusuran</folder>
+	<filename>Chihuahua (93).jpg</filename>
+	<path>C:\Users\Asus\Downloads\Anjing\chihuahua_-_Google_Penelusuran\Chihuahua (93).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>245</width>
+		<height>206</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bulldog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>39</ymin>
+			<xmax>210</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

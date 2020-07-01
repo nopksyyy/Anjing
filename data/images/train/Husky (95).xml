@@ -1,0 +1,26 @@
+<annotation>
+	<folder>husky_-_Google_Penelusuran</folder>
+	<filename>Husky (95).jpg</filename>
+	<path>C:\Users\Asus\Downloads\Anjing\husky_-_Google_Penelusuran\Husky (95).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>222</width>
+		<height>227</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bulldog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>55</ymin>
+			<xmax>222</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

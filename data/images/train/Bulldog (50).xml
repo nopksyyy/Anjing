@@ -1,0 +1,38 @@
+<annotation>
+	<folder>bulldog_-_Google_Penelusuran</folder>
+	<filename>Bulldog (50).jpg</filename>
+	<path>C:\Users\Asus\Downloads\Anjing\bulldog_-_Google_Penelusuran\Bulldog (50).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bulldog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>6</ymin>
+			<xmax>144</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bulldog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>13</ymin>
+			<xmax>254</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

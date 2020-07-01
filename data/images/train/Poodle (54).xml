@@ -1,0 +1,26 @@
+<annotation>
+	<folder>poodle_-_Google_Penelusuran</folder>
+	<filename>Poodle (54).jpg</filename>
+	<path>C:\Users\Asus\Downloads\Anjing\poodle_-_Google_Penelusuran\Poodle (54).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>251</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bulldog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>10</ymin>
+			<xmax>213</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>
